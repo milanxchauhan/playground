@@ -1,0 +1,12 @@
+body {
+    margin: 0em;
+    padding: 2em;
+}
+
+a { text-decoration: none; color:black; }
+a:visited { text-decoration: none; color:black; }
+
+.goku {
+    margin: 2em 0em 2em 2em;
+    float: right;
+}
